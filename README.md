@@ -11,7 +11,9 @@ My name is Marzena Jędrzejowska. I am a master of science in environmental engi
 * Creating test cases
 * Reporting bugs
 ## Certificates
+Szkolenie Indywidualne tester manualny 05.07.2022 r.
 ## Courses
+* Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## Books
 ## Groups on Facebook
 ## Recommended blogs
