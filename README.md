@@ -27,4 +27,6 @@ Szkolenie Indywidualne tester manualny 05.07.2022 r.
 ## My bugs
 [My bugs for site bonito.pl](https://drive.google.com/drive/folders/14bUMobURZSSNnIjockgX9-zRgeHK6tm0?usp=sharing)
 ## My report
-[My raport for site bonito.pl](https://docs.google.com/document/d/19xQzNZ7AXwOUE0_0xeZHD14PgH_we6wX/edit?usp=sharing&ouid=111211473740711748535&rtpof=true&sd=true)
+[My raport for site bonito.pl]
+*(https://docs.google.com/document/d/19xQzNZ7AXwOUE0_0xeZHD14PgH_we6wX/edit?usp=sharing&ouid=111211473740711748535&rtpof=true&sd=true)
+*(https://docs.google.com/spreadsheets/d/1CsH1qSi6WiMKygxZfMoIEUeZFBU5guum/edit?usp=sharing&ouid=111211473740711748535&rtpof=true&sd=true)
