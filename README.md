@@ -23,7 +23,7 @@ Szkolenie Indywidualne tester manualny 05.07.2022 r.
 * [testerzy.pl](https://testerzy.pl/)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 ## My test case examples
-My test case for site bonito.pl
+[My test case for site bonito.pl](https://drive.google.com/file/d/1qq9IpHSwTrDuJWA1FP-XvQ9g71LqaHIf/view?usp=sharing)
 ## My bugs
 [My bugs for site bonito.pl](https://drive.google.com/drive/folders/14bUMobURZSSNnIjockgX9-zRgeHK6tm0?usp=sharing)
 ## My report
