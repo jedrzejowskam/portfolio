@@ -15,6 +15,9 @@ Szkolenie Indywidualne tester manualny 05.07.2022 r.
 ## Courses
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## Groups on Facebook
+* [Wyszkoliłemwas](https://www.facebook.com/groups/3211016828915031)
+* [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?multi_permalinks=1424258701408223)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
 ## Recommended blogs
 * wyszkolewas.com.pl
 * testerzy.pl
