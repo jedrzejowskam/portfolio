@@ -19,9 +19,9 @@ Szkolenie Indywidualne tester manualny 05.07.2022 r.
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania/?multi_permalinks=1424258701408223)
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania/)
 ## Recommended blogs
-* wyszkolewas.com.pl
-* testerzy.pl
-* remigiuszbednarczyk.pl
+* [wyszkolewas.com.pl[(https://www.wyszkolewas.com.pl/sitemap-index.xml)
+* [testerzy.pl[(https://testerzy.pl/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 ## My test case examples
 My test case for site bonito.pl
 ## My bugs
