@@ -11,8 +11,8 @@ My name is Marzena Jędrzejowska. I am a master of science in environmental engi
 * Creating test cases
 * Reporting bugs
 ## Certificates
-ISTQB Certificate
-Szkolenie Indywidualne tester manualny 05.07.2022 r.
+* ISTQB Certificate 17.08.2022 r.
+* Szkolenie Indywidualne tester manualny 05.07.2022 r.
 ## Courses
 * Szkolenie indywidualne tester manualny - Waldemar Szafraniec
 ## Groups on Facebook
